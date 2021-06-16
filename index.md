@@ -14,16 +14,10 @@ Below you can find some of my work:
 
 
 #### Lambdas 
-<details>
-  <summary>Lambda interpreters site</summary>
-
-A website hosting a series of lambda calculus interpreters written in Haskell compiled into WebAssembly for fast interpretation. 
 
 [github](https://github.com/KripkesBeard/lambda.io)
-  
-</details>
 
-
+A website hosting a series of lambda calculus interpreters written in Haskell compiled into WebAssembly for fast interpretation. 
 
 
 #### Scheme Compiler
