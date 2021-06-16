@@ -13,11 +13,15 @@ Below you can find some of my work:
 # Haskell
 
 
-#### Lambda
-
-[github](https://github.com/KripkesBeard/lambda.io)
+#### Lambdas 
+<details>
+  <summary>Lambda interpreters site</summary>
 
 A website hosting a series of lambda calculus interpreters written in Haskell compiled into WebAssembly for fast interpretation. 
+
+[github](https://github.com/KripkesBeard/lambda.io)
+  
+</details>
 
 
 
@@ -77,7 +81,7 @@ A profunctor optics library for Scheme, similar to Haskell's lens and optics lib
 
 # Prolog
 
-##### Modal Tableux Solver
+#### Modal Tableux Solver
 
 [github]()
 
