@@ -6,16 +6,12 @@ In the realm of computer science, the primary programming languages I use are Ha
 
 
 
-## Projects
-
-Here you can find some of my projects.
+Below you can find some of my work:
 
 
-### Haskell
 
+# Haskell
 
-<details>
-  <summary>### Haskell Projects</summary>
 
 #### Lambda
 
@@ -23,11 +19,13 @@ A website hosting a series of lambda calculus interpreters written in Haskell co
 
 [github](https://github.com/KripkesBeard/lambda.io)
 
+
 #### Scheme Compiler
 
 A fully compliant R5RS Scheme compiler written in CPS style (? virtual machines*) which compiles to C or LLVM. 
 
 [github]()
+
 
 #### Unlambda Compiler
 
@@ -35,13 +33,14 @@ A compiler for the Unlambda programming language, mostly a proof of concept that
 
 [github]()
 
+
 #### ASMPL
 
 ASMPL (A String Manipulation Programming Language) is a logic programming language implementation of Raymond Smullyan's Elementary Formal Systems. Partly inspired by the logic programming language in Mel Fitting's book *Computability Theory, Semantics, and Logic Programming*.
 
 [github]()
 
-  </details>
+
 
 ### Scheme
 
