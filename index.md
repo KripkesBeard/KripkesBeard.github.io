@@ -14,6 +14,7 @@ Here you can find some of my projects.
 ### Haskell
 
 <details>
+  <summary>Haskell Projects</summary>
 
 #### Lambda
 
