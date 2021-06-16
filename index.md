@@ -1,6 +1,4 @@
-# Kripke's Beard
-
-Hello! I am Peter and welcome to my website.
+Hello! I am Peter, welcome to my website.
 
 I am a logician at heart. I study symbolic logic and its application to the fields of philosophy, mathematics, computer science, and linguistics. I am especially interested in the study of languages, both artificial and natural, and their formal semantics. 
 
@@ -14,6 +12,8 @@ Here you can find some of my projects.
 
 
 ### Haskell
+
+<details>
 
 #### Lambda
 
@@ -39,6 +39,7 @@ ASMPL (A String Manipulation Programming Language) is a logic programming langua
 
 [github]()
 
+  </details>
 
 ### Scheme
 
@@ -99,3 +100,16 @@ A collection of notes and worked solutions to various textbooks on mathematical 
 A collection of notes and worked solutions to various textbooks on my favorite programming languages, compiler theory, and eventually Knuth's The Art of Programming
 
 [github](https://github.com/KripkesBeard/Lambdas-Types-and-Registers)
+
+
+
+## Some (Not Very) FAQs
+
+### The Name
+
+[Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) is a legendary philosopher and logician. His work, across all these fields, is hard to miss and are some of the main inspirations behind my interest in these subjects. So, why his beard? There is a very old philosophical problem which was given the nick name ["Plato's Beard"](https://en.wikipedia.org/wiki/Plato%27s_beard) by Quine. I believe one of the problems Kripke raised in the philosophy of language (for those who know, the argument from "A Puzzle About Belief" that propositional attitudes are just as much an issue for the descriptivist's theory) is equally as vexing as Plato's.
+
+
+### Contact
+
+kripkesbeard @ gmail . com
