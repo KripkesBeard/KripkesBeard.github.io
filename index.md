@@ -115,7 +115,7 @@ A collection of notes and worked solutions to various textbooks on my favorite p
 
 ### The Name
 
-[Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) is a legendary philosopher and logician. His work, across all these fields, is hard to miss and are some of the main 
+[Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) is a legendary philosopher and logician. His work, across all these fields, is hard to miss and is some of the main 
 inspirations behind my interest in these subjects. So, why his beard? There is a very old philosophical problem which was given the nick name 
 ["Plato's Beard"](https://en.wikipedia.org/wiki/Plato%27s_beard) by Quine. I believe one of the problems Kripke raised in the philosophy of language (for those who know, the 
 argument from "A Puzzle About Belief" that propositional attitudes are just as much an issue for the descriptivist's theory) is equally as vexing as Plato's.
