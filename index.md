@@ -26,9 +26,9 @@ has a full implementation on github.
 
 This is a textbook meant to introduce philosophers, linguists, and foundationally inclined mathematicians
 to functional and logic programming with applications to their fields. First Prolog is introduced, culminating with
-a modal tableaux theorem prover. Next, Scheme is introduced, with applications aimed towards understanding referntial transparency
-quotation, self reference, the halting problem, and fixed points. Finally, Haskell is introduced and used as a metalanguage
-to embed fragments of English so as to execute a computational formal semantics system. Each project has a full implementation
+a modal tableaux theorem prover. Next, Scheme is introduced, with applications aimed towards understanding referential transparency,
+quotation and quasiquotation, self reference, the halting problem, and fixed points. Finally, Haskell is introduced and used as a metalanguage
+to embed fragments of English in order to execute a computational formal semantic system. Each project has a full implementation
 on github.
 
 
@@ -38,12 +38,12 @@ on github.
 
 #### [Lambdas](https://github.com/KripkesBeard/lambda.io) 
 
-A website hosting a series of lambda calculus interpreters written in Haskell compiled into WebAssembly for fast interpretation. 
+A website hosting a series of lambda calculus interpreters written in Haskell and compiled to WebAssembly for fast interpretation. 
 
 
 #### [Scheme Compiler]()
 
-A fully compliant R5RS Scheme compiler written in CPS style (? virtual machines*) which compiles to C or LLVM. 
+A fully compliant R5RS Scheme compiler written in CPS style which compiles to C or LLVM. 
 
 
 #### [Unlambda Compiler]()
@@ -67,7 +67,7 @@ Implementations of various fragments of English as typed lambda calculi.
 
 #### [Monadic Do Notation]()
 
-A Scheme monad library, which uses call/cc to implement a do notation which lets you 'roll your own monads', based off work by Wadler and others showing that the continuation 
+A Scheme monad library, which uses call/cc to implement a do notation in order to let you 'roll your own monads', based off work by Wadler and others showing that the continuation 
 monad is universal over all monads.
 
 
@@ -89,7 +89,7 @@ A profunctor optics library for Scheme, similar to Haskell's lens and optics lib
 A propositional modal logic tableaux proof system.
 
 
-#### [Lambda for Semantics]()
+#### [Lambdas for Semantics]()
 
 A typed lambda calculus implementation which is fit for formal semantics. 
 
