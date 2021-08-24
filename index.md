@@ -75,10 +75,13 @@ monad is universal over all monads.
 
 A monadic parser combinator library based off of the Haskell library Parsec, allowing for parser generation in Scheme using the powerful abstractions of monads and combinators.
 
+#### [Monad Transformers]() 
+
+A library for composing monadic code using the monad transformer abstraction model. 
 
 #### [Moxen]()
 
-A profunctor optics library for Scheme, similar to Haskell's lens and optics libraries. 
+An optics library for Scheme, similar to Haskell's lens and optics libraries. 
 
 
 
