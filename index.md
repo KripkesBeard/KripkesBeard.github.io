@@ -36,7 +36,7 @@ on github.
 # Haskell
 
 
-#### [Lambdas](https://github.com/KripkesBeard/lambda.io) 
+#### [Lambdology](https://github.com/KripkesBeard/lambda.io) 
 
 A website hosting a series of lambda calculus interpreters written in Haskell and compiled to WebAssembly for fast interpretation. 
 
