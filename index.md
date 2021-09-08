@@ -1,14 +1,14 @@
-Hello! I am Peter, welcome to my website.
+Hello! My name is Peter, welcome to my website.
 
-I am a logician at heart. I study symbolic logic and its application to the fields of philosophy, mathematics, computer science, and linguistics. I am especially interested in 
-the study of languages, both artificial and natural, and their formal semantics. 
+I am a logician at heart. I study symbolic logic and its application to the fields of philosophy, mathematics, computer science, linguistics, and physics. I am especially 
+interested in the study of languages, both artificial and natural, and their formal semantics. 
 
-In the realm of computer science, the primary programming languages I use are Haskell, Scheme, Prolog, and C and I work with embedded domain specific 
-languages, metalinguistic abstraction, interpreters, compilers, and the foundations of programming language theory.
-
-
+In the realm of computer science, the primary programming languages I use are Haskell, Scheme, Prolog, and C. I work maily with interpreters, compilers, embedded domain specific 
+languages, metalinguistic abstractions, and the foundations of programming language theory.
 
 Below you can find some of my work:
+
+
 
 # Books
 
@@ -22,44 +22,40 @@ target abstract computational machines, such as the SECD machine and the STG mac
 on the topic of compiling those types of machine languages to C (or LLVM). Each interpreter and compiler
 has a full implementation on github.
 
+
 ### [Programming for Philosophers]()
 
-This is a textbook meant to introduce philosophers, linguists, and foundationally inclined mathematicians
-to functional and logic programming with applications to their fields. First Prolog is introduced, culminating with
-a modal tableaux theorem prover. Next, Scheme is introduced, with applications aimed towards understanding referential transparency,
-quotation and quasiquotation, self reference, the halting problem, and fixed points. Finally, Haskell is introduced and used as a metalanguage
-to embed fragments of English in order to execute a computational formal semantic system. Each project has a full implementation
-on github.
+This is a textbook meant to introduce philosophers, linguists, and foundationally inclined mathematicians to functional and logic programming with applications to their fields. 
+First Prolog is introduced, culminating with a nonmonotonic theorem prover used to represent formalized epistemic reasoning. Next, Scheme is introduced, with applications aimed 
+towards understanding referential transparency, quotation and quasiquotation, self reference, the halting problem, and fixed points. Finally, Haskell is introduced and used as a 
+metalanguage to embed fragments of English in order to execute a computational formal semantic system. Each project has a full implementation on github.
 
 
 
 # Haskell
 
+#### [Formal Semantics]()
 
-#### [Lambdology](https://github.com/KripkesBeard/lambda.io) 
-
-A website hosting a series of lambda calculus interpreters written in Haskell and compiled to WebAssembly for fast interpretation. 
-
-
-#### [Scheme Compiler]()
-
-A fully compliant R5RS Scheme compiler written in CPS style which compiles to C or LLVM. 
+Two developments of formal semantics for natural languages done with Haskell as the metalanguage. One takes the indirect representation route, associating
+a logical representation to each English sentence before deriving its semantic interpretation. The other uses direct representation without an intermediate logical
+form. Additionally there are libraries implementing the fragments developed in 
+[Jacobson](https://global.oup.com/academic/product/compositional-semantics-9780199677153?lang=en&cc=us), [Coppock & Champollion](https://eecoppock.info/teaching.html), 
+[Heim & Kratzer](https://philpapers.org/rec/HEISIG), and [von Fintel & Heim](https://github.com/fintelkai/fintel-heim-intensional-notes).
 
 
 #### [Unlambda Compiler]()
 
-A compiler for the Unlambda programming language, mostly a proof of concept that it *is* a coherent idea to compile the language.
+A compiler for the Unlambda programming language, mostly a proof of concept that it *is* a coherent idea to compile the language 
+(c.f. [this](http://www.madore.org/~david/programs/unlambda/#impl_comp)). The larger logico-philosophical issues surrounding why the answer to the question is yes
+are explicated via a presentation of formal operation and denotational semantics of the language.
 
 
 #### [ASMPL]()
 
-ASMPL (A String Manipulation Programming Language) is a logic programming language implementation of Raymond Smullyan's Elementary Formal Systems. Partly inspired by the logic 
-programming language in Mel Fitting's book *Computability Theory, Semantics, and Logic Programming*.
-
-
-#### [Formal Semantics]()
-
-Implementations of various fragments of English as typed lambda calculi.
+ASMPL (A String Manipulation Programming Language) is a logic programming language implementation of 
+[Raymond Smullyan's Elementary Formal Systems](https://philpapers.org/rec/SMUTOF). Partly inspired by the logic 
+programming language in Mel Fitting's book [*Computability Theory, Semantics, and Logic Programming*](https://philpapers.org/rec/SHEFMC). Smullyan's model of computation is 
+astonishingly elegant, and has *a very simple* set theoretic string rewriting interpretation that lends itself to a very coherent implementation as a logic programming language. 
 
 
 
@@ -67,21 +63,22 @@ Implementations of various fragments of English as typed lambda calculi.
 
 #### [Monadic Do Notation]()
 
-A Scheme monad library, which uses call/cc to implement a do notation in order to let you 'roll your own monads', based off work by Wadler and others showing that the continuation 
-monad is universal over all monads.
+A Scheme monad library, which uses call/cc to implement a do notation in order to let you 'roll your own monads', conceptually based off of work by 
+[Wadler](https://jgbm.github.io/eecs762f19/papers/wadler-monads.pdf) and others showing that the continuation monad is universal over all monads.
 
 
 #### [Monadic Parser Combinators]()
 
-A monadic parser combinator library based off of the Haskell library Parsec, allowing for parser generation in Scheme using the powerful abstractions of monads and combinators.
+A monadic parser combinator library influenced by the Haskell library [parsec](https://hackage.haskell.org/package/parsec), allowing for parser generation in Scheme using the 
+powerful abstractions of monads and combinators.
 
 #### [Monad Transformers]() 
 
-A library for composing monadic code using the monad transformer abstraction model. 
+A library for composing monadic code using the [monad transformer abstraction model](https://en.wikipedia.org/wiki/Monad_transformer). 
 
 #### [Moxen]()
 
-An optics library for Scheme, similar to Haskell's lens and optics libraries. 
+An optics library for Scheme, similar to Haskell's [lens](https://hackage.haskell.org/package/lens) and [optics](https://hackage.haskell.org/package/optics) libraries. 
 
 
 
@@ -94,7 +91,9 @@ A propositional modal logic tableaux proof system.
 
 #### [Lambdas for Semantics]()
 
-A typed lambda calculus implementation which is fit for formal semantics. 
+A typed lambda calculus implementation which is fit for formal semantics. Prolog, and logic programming languages in general, lend themselves well to the 
+mechanization of computational semantics. However, the lambda notation usually used to compute semantic values is not well suited for use in Prolog by default. This 
+library uses Prolog's facile metaprogramming to allow an interface for programmers to more easily write traditional lambda notation semantics in Prolog.
 
 
 
