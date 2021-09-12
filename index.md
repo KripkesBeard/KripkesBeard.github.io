@@ -39,9 +39,9 @@ philosophy, linguistics, computer science, cognitive science, or any other field
 
 1. Set Theory
 2. Classical Logic
-3. Discrete Structures
-4. Algebraic Structures
-5. Intuitionistic & Modal Logic
+3. Algebraic Structures
+4. Intuitionistic & Modal Logic
+5. Discrete Structures
 6. Formal Languages & Automata
 7. Turing Machines & The Lambda Calculus
 8. Typed Lambda Calculi & Categorial Grammar
