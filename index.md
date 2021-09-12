@@ -31,6 +31,26 @@ towards understanding referential transparency, quotation and quasiquotation, se
 metalanguage to embed fragments of English in order to execute a computational formal semantic system. Each project has a full implementation on github.
 
 
+### [A Logician's Toolkit]()
+
+This book is a collection of tools and formal methods used by logicians. It is inspired by 
+[Partee, ter Meulen, and Wall](https://www.springer.com/gp/book/9789027722447) and serves a similar function of being a reference for anyone in the fields of mathematics, 
+philosophy, linguistics, computer science, cognitive science, or any other field which makes use of the common tools used by logicians. The subjects included are 
+
+1. Set Theory
+2. Classical Logic
+3. Discrete Structures
+4. Algebraic Structures
+5. Intuitionistic & Modal Logic
+6. Formal Languages & Automata
+7. Turing Machines & The Lambda Calculus
+8. Typed Lambda Calculi & Categorial Grammar
+9. Category Theory
+10. Topoi vs. Sets
+
+The scope of the book is much greater than Partee Et al., and thus welcomes a wider range of disciplines whose practitioners will find it useful.
+
+
 
 # Haskell
 
