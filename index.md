@@ -42,9 +42,9 @@ philosophy, linguistics, computer science, cognitive science, or any other field
 3. Algebraic Structures
 4. Intuitionistic & Modal Logic
 5. Discrete Structures
-6. Formal Languages & Automata
+6. Formal Languages, Grammars, & Automata
 7. Turing Machines & The Lambda Calculus
-8. Typed Lambda Calculi & Categorial Grammar
+8. Typed Lambda Calculi, Functional Programming, & Categorial Grammar
 9. Category Theory
 10. Topoi vs. Sets
 
