@@ -129,6 +129,15 @@ A collection of notes and worked solutions to various textbooks on mathematical 
 A collection of notes and worked solutions to various textbooks on my favorite programming languages, compiler theory, and eventually Knuth's The Art of Programming
 
 
+#### [SICP in Context]()
+
+*Structure and Interpretation of Computer Programms* by Abelson, Sussman & Sussman is one of the greatest books ever written, and this fact is well known. My biggest
+criticism of the book is that it can be hard to place the ideas it teaches into context. Many of the ideas the book discusses are ideas you would learn under
+different names or less technically in a more traditional introduction to programming. This project is my attempt to place each section/chapter of the book into
+more traditional jargon and to have it act as a reference guide for anyone trying to work through SICP. Importantly, this is not a distillation of or substitute for the book;
+my goal is to outline sign posts of the main ideas and to put them into the context of every day programming terminology. 
+
+
 
 ## Some (Not Very) FAQs
 
