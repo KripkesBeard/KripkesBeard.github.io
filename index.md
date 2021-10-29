@@ -138,8 +138,8 @@ more traditional jargon and to have it act as a reference guide for anyone tryin
 my goal is to outline sign posts of the main ideas and to put them into the context of every day programming terminology. One quick example: Despite having an entire
 section, comprising five chapters, on the topic of abstract data representation, the book does not use the phrase "abstract data type" once (it does appear in the
 title of a paper in the bibliography). Surely this can be a cause for confusion (it was for me personally at the start of my CS career), "are these data abstractions 
-the same as the abstract data types I'm learning about everywhere else?" Of course they are, but the book does not say so. One goal of SICP in Context is to clear these 
-types of confusions up.
+the same as the abstract data types I'm learning about everywhere else?" Of course they are, but the book does not say so. One goal of SICP in Context is to clear up these 
+types of confusions.
 
 
 
