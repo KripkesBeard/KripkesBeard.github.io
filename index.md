@@ -66,12 +66,12 @@ contains libraries which explore the use of monads and continuations in semantic
 [Barker & Shan](https://global.oup.com/academic/product/continuations-and-natural-language-9780199575022).
 
 
-### [C Compiler]()
+#### [C Compiler]()
 
 A C compiler targeting Knuth's MMIX.
 
 
-### [Scheme Compiler]()
+#### [Scheme Compiler]()
 
 An R7RS Scheme compiler and REPL interpreter.
 
