@@ -59,8 +59,21 @@ The scope of the book is much greater than Partee Et al., and thus welcomes a wi
 Two developments of formal semantics for natural languages done with Haskell as the metalanguage. One takes the indirect representation route, associating
 a logical representation to each English sentence before deriving its semantic interpretation. The other uses direct representation without an intermediate logical
 form. Additionally there are libraries implementing the fragments developed in 
-[Jacobson](https://global.oup.com/academic/product/compositional-semantics-9780199677153?lang=en&cc=us), [Coppock & Champollion](https://eecoppock.info/teaching.html), 
-[Heim & Kratzer](https://philpapers.org/rec/HEISIG), and [von Fintel & Heim](https://github.com/fintelkai/fintel-heim-intensional-notes).
+[Jacobson](https://global.oup.com/academic/product/compositional-semantics-9780199677153), [Coppock & Champollion](https://eecoppock.info/teaching.html), 
+[Heim & Kratzer](https://philpapers.org/rec/HEISIG), and [von Fintel & Heim](https://github.com/fintelkai/fintel-heim-intensional-notes). Additionally it 
+contains libraries which explore the use of monads and continuations in semantics as described in e.g. 
+[Asudeh & Giorgolo](https://global.oup.com/academic/product/enriched-meanings-9780198847861) and 
+[Barker & Shan](https://global.oup.com/academic/product/continuations-and-natural-language-9780199575022).
+
+
+### [C Compiler]()
+
+A C compiler targeting Knuth's MMIX.
+
+
+### [Scheme Compiler]()
+
+An R7RS Scheme compiler and REPL interpreter.
 
 
 #### [Unlambda Compiler]()
@@ -107,13 +120,6 @@ An optics library for Scheme, similar to Haskell's [lens](https://hackage.haskel
 #### [Modal Tableux Solver]()
 
 A propositional modal logic tableaux proof system.
-
-
-#### [Lambdas for Semantics]()
-
-A typed lambda calculus implementation which is fit for formal semantics. Prolog, and logic programming languages in general, lend themselves well to the 
-mechanization of computational semantics. However, the lambda notation usually used to compute semantic values is not well suited for use in Prolog by default. This 
-library uses Prolog's facile metaprogramming to allow an interface for programmers to more easily write traditional lambda notation semantics in Prolog.
 
 
 
