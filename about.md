@@ -8,4 +8,4 @@ In the realm of computer science, the primary programming languages I use are Ha
 Prolog, and C. I work maily with interpreters, compilers, embedded domain specific languages, 
 metalinguistic abstractions, and the foundations of programming language theory.
 
-Currently I am an undergraduate persuing a double major in Philosophy and Mathematics with a minor in Computer Science
+Currently I am an undergraduate persuing a double major in Philosophy and Mathematics with a minor in Computer Science.
