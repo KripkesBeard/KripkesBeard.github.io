@@ -4,12 +4,6 @@ On this page you can find my programming work, focusing mainly on functional pro
 
 You can find out more about me [here](https://kripkesbeard.github.io/about), and contact me at kripkesbeard@gmail.com
 
-# Projects
-### [Books](#Books) - [Haskell](#Haskell) - [Scheme](#Scheme) - [Prolog](#Prolog)
-### [Other Projects](#Other) - [Notes and so on](#Notes)
-
-
-
 ## Books <a name="Books"></a>
 
 ### [Lambdas Within Lambdas]()
