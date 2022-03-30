@@ -1,12 +1,8 @@
 Hello! My name is Peter, welcome to my website.
 
-I am a logician at heart. I study symbolic logic and its application to the fields of philosophy, mathematics, computer science, linguistics, and physics. I am 
-especially interested in the study of languages, both artificial and natural, and their formal semantics. 
+On this page you can find my programming work, focusing mainly on functional programming, interpreters, and compilers.
 
-In the realm of computer science, the primary programming languages I use are Haskell, Scheme, Prolog, and C. I work maily with interpreters, compilers, embedded 
-domain specific languages, metalinguistic abstractions, and the foundations of programming language theory.
-
-Below you can find my work:
+You can find out more about me [here](https://kripkesbeard.github.io/about), and contact me at kripkesbeard@gmail.com
 
 # Projects
 ### [Books](#Books) - [Haskell](#Haskell) - [Scheme](#Scheme) - [Prolog](#Prolog)
@@ -30,7 +26,7 @@ Below you can find my work:
   has a full implementation on github.
     
 </details>
-
+<br>
 
 
 ### [Programming for Philosophers]()
@@ -48,7 +44,7 @@ used as a
 metalanguage to embed fragments of English in order to execute a computational formal semantic system. Each project has a full implementation on github.
         
 </details>
-
+<br>
   
 ### [A Logician's Toolkit]()
 <details>
@@ -74,6 +70,8 @@ philosophy, linguistics, computer science, cognitive science, or any other field
 The scope of the book is much greater than Partee Et al., and thus welcomes a wider range of disciplines whose practitioners will find it useful.
 
 </details>
+<br>
+<br>
 
 ## Haskell <a name="Haskell"></a>
 
@@ -94,7 +92,7 @@ contains libraries which explore the use of monads and continuations in semantic
 [Barker & Shan](https://global.oup.com/academic/product/continuations-and-natural-language-9780199575022).
 
 </details>
-
+<br>
 
 ### [Spinner]()
 
@@ -106,7 +104,7 @@ contains libraries which explore the use of monads and continuations in semantic
 An R7RS Scheme compiler and REPL interpreter.
 
 </details>
-
+<br>
 
 ### [Plus C]()
 
@@ -118,7 +116,7 @@ An R7RS Scheme compiler and REPL interpreter.
 A C compiler with a debugging/interpretation system.
 
 </details>
-
+<br>
 
 ### [Relambda]()
 
@@ -132,7 +130,7 @@ A compiler for the Unlambda programming language, mostly a proof of concept that
 are explicated via a presentation of formal operation and denotational semantics of the language. Based mainly on graph *re*duction.
 
 </details>
-
+<br>
 
 ### [ASMPL]()
 
@@ -148,7 +146,8 @@ computation is astonishingly elegant, and has *a very simple* set theoretic stri
 logic programming language. 
 
 </details>
-
+<br>
+<br>
 
 
 ## Scheme <a name="Scheme"></a>
@@ -164,7 +163,7 @@ A Scheme monad library, which uses call/cc to implement a do notation in order t
 [Wadler](https://jgbm.github.io/eecs762f19/papers/wadler-monads.pdf) and others showing that the continuation monad is universal over all monads.
 
 </details>
-
+<br>
 
 ### [Pars]()
 
@@ -177,7 +176,7 @@ A monadic parser combinator library influenced by the Haskell library [parsec](h
 using the powerful abstractions of monads and combinators.
 
 </details>
-
+<br>
 
 ### [Mutatus]() 
 
@@ -189,7 +188,7 @@ using the powerful abstractions of monads and combinators.
 A library for composing monadic code using the [monad transformer abstraction model](https://en.wikipedia.org/wiki/Monad_transformer). 
 
 </details>
-
+<br>
 
 ### [Moxen]()
 
@@ -201,7 +200,8 @@ A library for composing monadic code using the [monad transformer abstraction mo
 An optics library for Scheme, similar to Haskell's [lens](https://hackage.haskell.org/package/lens) and [optics](https://hackage.haskell.org/package/optics) libraries. 
 
 </details>
-
+<br>
+<br>
 
 
 ## Prolog <a name="Prolog"></a>
@@ -216,11 +216,13 @@ An optics library for Scheme, similar to Haskell's [lens](https://hackage.haskel
 A propositional modal logic tableaux proof system.
 
 </details>
-
+<br>
+<br>
 
     
 ## Other Projects <a name="Other"></a>
-
+<br>
+<br>
 
 
 
@@ -230,12 +232,12 @@ A propositional modal logic tableaux proof system.
 #### [Logic Runs Through It](https://github.com/KripkesBeard/Logic-Runs-Through-It)
 
 A collection of notes and worked solutions to various textbooks on mathematical logic and theoretical computer science.
-
+<br>
 
 #### [Lambdas, Types, and Registers](https://github.com/KripkesBeard/Lambdas-Types-and-Registers)
 
 A collection of notes and worked solutions to various textbooks on my favorite programming languages, compiler theory, and eventually Knuth's The Art of Programming
-
+<br>
 
 #### [SICP in Context]()
     
@@ -256,6 +258,8 @@ types of confusions.
 
 </details>
 
+<br>
+<br>
     
 
 ## Some (Not Very) FAQs
@@ -269,7 +273,3 @@ argument from "A Puzzle About Belief" that propositional attitudes are just as m
 
 
     
-### Contact
-
-kripkesbeard @ gmail . com
-
