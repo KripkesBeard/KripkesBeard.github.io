@@ -17,8 +17,7 @@ Below you can find my work:
 ## Books <a name="Books"></a>
 
 ### [Lambdas Within Lambdas]()
-<details>
-  <summary> <b> A tutorial for implementing the lambda calculus </b> </summary>
+<details><summary><b> A tutorial for implementing the lambda calculus </b></summary>
 <br>
 A tutorial walkthrough of implementing both an interpreter and a compiler for multiple languages. It starts
 off with the untyped lambda calculus, eventually introducing S-expression notation and ending with R5RS Scheme.
@@ -32,8 +31,7 @@ has a full implementation on github.
 
 ### [Programming for Philosophers]()
 
-<details>
-  <summary> <b> A tutorial for philosophers to gain programming skills applicable to their field <b> </summary>
+<details><summary><b> A tutorial for philosophers to gain programming skills applicable to their field <b></summary>
 <br>
     
 This is a textbook meant to introduce philosophers, linguists, and foundationally inclined mathematicians to functional and logic programming with applications to 
@@ -43,10 +41,9 @@ applications aimed
 towards understanding referential transparency, quotation and quasiquotation, self reference, the halting problem, and fixed points. Finally, Haskell is introduced and 
 used as a 
 metalanguage to embed fragments of English in order to execute a computational formal semantic system. Each project has a full implementation on github.
-
 </details>
-
-    
+<br>
+  
 ### [A Logician's Toolkit]()
 <details>
 <summary> <b> A reference for anyone who needs to apply the tools of formal logic </b> </summary>
