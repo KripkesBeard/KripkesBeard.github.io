@@ -14,6 +14,8 @@ Below you can find some of my work:
 
 ### [Lambdas Within Lambdas]()
 
+#### A tutorial for implementing the lambda calculus
+
 A tutorial walkthrough of implementing both an interpreter and a compiler for multiple languages. It starts
 off with the untyped lambda calculus, eventually introducing S-expression notation and ending with R5RS Scheme.
 Then the simply typed lambda calculus is implemented and a series of stronger type systems are added until we 
@@ -25,6 +27,8 @@ has a full implementation on github.
 
 ### [Programming for Philosophers]()
 
+#### A tutorial for philosophers to gain programming skills applicable to their field
+
 This is a textbook meant to introduce philosophers, linguists, and foundationally inclined mathematicians to functional and logic programming with applications to their fields. 
 First Prolog is introduced, culminating with a nonmonotonic theorem prover used to represent formalized epistemic reasoning. Next, Scheme is introduced, with applications aimed 
 towards understanding referential transparency, quotation and quasiquotation, self reference, the halting problem, and fixed points. Finally, Haskell is introduced and used as a 
@@ -32,6 +36,8 @@ metalanguage to embed fragments of English in order to execute a computational f
 
 
 ### [A Logician's Toolkit]()
+
+#### A reference for anyone who needs to apply the tools of formal logic
 
 This book is a collection of tools and formal methods used by logicians. It is inspired by 
 [Partee, ter Meulen, and Wall](https://www.springer.com/gp/book/9789027722447) and serves a similar function of being a reference for anyone in the fields of mathematics, 
@@ -54,7 +60,9 @@ The scope of the book is much greater than Partee Et al., and thus welcomes a wi
 
 # Haskell
 
-#### [Formal Semantics]()
+### [Unsaturated]()
+
+#### A computational system for formal semantics via functional programming
 
 Two developments of formal semantics for natural languages done with Haskell as the metalanguage. One takes the indirect representation route, associating
 a logical representation to each English sentence before deriving its semantic interpretation. The other uses direct representation without an intermediate logical
@@ -66,50 +74,69 @@ contains libraries which explore the use of monads and continuations in semantic
 [Barker & Shan](https://global.oup.com/academic/product/continuations-and-natural-language-9780199575022).
 
 
-#### [C Compiler]()
+### [Spinner]()
 
-A C compiler targeting Knuth's MMIX.
-
-
-#### [Scheme Compiler]()
+#### A Scheme compiler
 
 An R7RS Scheme compiler and REPL interpreter.
 
 
-#### [Unlambda Compiler]()
+### [Plus C]()
+
+#### A C compiler
+
+A C compiler with a debugging/interpretation system.
+
+
+### [Relambda]()
+
+#### An Unlambda compiler
 
 A compiler for the Unlambda programming language, mostly a proof of concept that it *is* a coherent idea to compile the language 
 (c.f. [this](http://www.madore.org/~david/programs/unlambda/#impl_comp)). The larger logico-philosophical issues surrounding why the answer to the question is yes
-are explicated via a presentation of formal operation and denotational semantics of the language.
+are explicated via a presentation of formal operation and denotational semantics of the language. Based mainly on graph *re*duction.
 
 
-#### [ASMPL]()
+### [ASMPL]()
+
+#### A string rewriting logic programming language 
 
 ASMPL (A String Manipulation Programming Language) is a logic programming language implementation of 
 [Raymond Smullyan's Elementary Formal Systems](https://philpapers.org/rec/SMUTOF). Partly inspired by the logic 
-programming language in Mel Fitting's book [*Computability Theory, Semantics, and Logic Programming*](https://philpapers.org/rec/SHEFMC). Smullyan's model of computation is 
-astonishingly elegant, and has *a very simple* set theoretic string rewriting interpretation that lends itself to a very coherent implementation as a logic programming language. 
+programming language in Mel Fitting's book [*Computability Theory, Semantics, and Logic Programming*](https://philpapers.org/rec/SHEFMC). Smullyan's model of 
+computation is astonishingly elegant, and has *a very simple* set theoretic string rewriting interpretation that lends itself to a very coherent implementation as a 
+logic programming language. 
 
 
 
 # Scheme
 
-#### [Monadic Do Notation]()
+### [Do Over Lambda]()
+
+#### A monadic do notation implementation
 
 A Scheme monad library, which uses call/cc to implement a do notation in order to let you 'roll your own monads', conceptually based off of work by 
 [Wadler](https://jgbm.github.io/eecs762f19/papers/wadler-monads.pdf) and others showing that the continuation monad is universal over all monads.
 
 
-#### [Monadic Parser Combinators]()
+### [Pars]()
 
-A monadic parser combinator library influenced by the Haskell library [parsec](https://hackage.haskell.org/package/parsec), allowing for parser generation in Scheme using the 
-powerful abstractions of monads and combinators.
+#### A library for monadic pasrser combinators
 
-#### [Monad Transformers]() 
+A monadic parser combinator library influenced by the Haskell library [parsec](https://hackage.haskell.org/package/parsec), allowing for parser generation in Scheme 
+using the powerful abstractions of monads and combinators.
+
+
+### [Mutatus]() 
+
+#### A library for monad transformers
 
 A library for composing monadic code using the [monad transformer abstraction model](https://en.wikipedia.org/wiki/Monad_transformer). 
 
-#### [Moxen]()
+
+### [Moxen]()
+
+#### A library for optics combinators
 
 An optics library for Scheme, similar to Haskell's [lens](https://hackage.haskell.org/package/lens) and [optics](https://hackage.haskell.org/package/optics) libraries. 
 
@@ -118,6 +145,8 @@ An optics library for Scheme, similar to Haskell's [lens](https://hackage.haskel
 # Prolog
 
 #### [Modal Tableux Solver]()
+
+#### A modal tableaux solver
 
 A propositional modal logic tableaux proof system.
 
@@ -154,7 +183,7 @@ types of confusions.
 ### The Name
 
 [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) is a legendary philosopher and logician. His work, across all these fields, is hard to miss and is some of the main 
-inspirations behind my interest in these subjects. So, why his beard? There is a very old philosophical problem which was given the nick name 
+inspiration behind my interest in these subjects. So, why his beard? There is a very old philosophical problem which was given the nick name 
 ["Plato's Beard"](https://en.wikipedia.org/wiki/Plato%27s_beard) by Quine. I believe one of the problems Kripke raised in the philosophy of language (for those who know, the 
 argument from "A Puzzle About Belief" that propositional attitudes are just as much an issue for the descriptivist's theory) is equally as vexing as Plato's.
 
