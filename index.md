@@ -18,6 +18,7 @@ Below you can find my work:
 
 ### [Lambdas Within Lambdas]()
 <details><summary><b> A tutorial for implementing the lambda calculus </b></summary>
+    
 <br>
 A tutorial walkthrough of implementing both an interpreter and a compiler for multiple languages. It starts
 off with the untyped lambda calculus, eventually introducing S-expression notation and ending with R5RS Scheme.
@@ -32,6 +33,7 @@ has a full implementation on github.
 ### [Programming for Philosophers]()
 
 <details><summary><b> A tutorial for philosophers to gain programming skills applicable to their field <b></summary>
+    
 <br>
     
 This is a textbook meant to introduce philosophers, linguists, and foundationally inclined mathematicians to functional and logic programming with applications to 
@@ -45,8 +47,8 @@ metalanguage to embed fragments of English in order to execute a computational f
 <br>
   
 ### [A Logician's Toolkit]()
-<details>
-<summary> <b> A reference for anyone who needs to apply the tools of formal logic </b> </summary>
+<details><summary> <b> A reference for anyone who needs to apply the tools of formal logic </b></summary>
+    
 <br>
 
 This book is a collection of tools and formal methods used by logicians. It is inspired by 
