@@ -17,25 +17,28 @@ Below you can find my work:
 ## Books <a name="Books"></a>
 
 ### [Lambdas Within Lambdas]()
-<details><summary><b> A tutorial for implementing the lambda calculus </b></summary>
+<details>
+    <summary><b> A tutorial for implementing the lambda calculus </b></summary>
     
-<br>
-A tutorial walkthrough of implementing both an interpreter and a compiler for multiple languages. It starts
-off with the untyped lambda calculus, eventually introducing S-expression notation and ending with R5RS Scheme.
-Then the simply typed lambda calculus is implemented and a series of stronger type systems are added until we 
-end with a polymorphic Haskell-esque language. The metalanguage used in the book is Haskell. The compilers all
-target abstract computational machines, such as the SECD machine and the STG machine. A final chapter focuses 
-on the topic of compiling those types of machine languages to C (or LLVM). Each interpreter and compiler
-has a full implementation on github.
+    <br>
+  A tutorial walkthrough of implementing both an interpreter and a compiler for multiple languages. It starts
+  off with the untyped lambda calculus, eventually introducing S-expression notation and ending with R5RS Scheme.
+  Then the simply typed lambda calculus is implemented and a series of stronger type systems are added until we 
+  end with a polymorphic Haskell-esque language. The metalanguage used in the book is Haskell. The compilers all
+  target abstract computational machines, such as the SECD machine and the STG machine. A final chapter focuses 
+  on the topic of compiling those types of machine languages to C (or LLVM). Each interpreter and compiler
+  has a full implementation on github.
+    
 </details>
+
 
 
 ### [Programming for Philosophers]()
 
-<details><summary><b> A tutorial for philosophers to gain programming skills applicable to their field <b></summary>
-    
+<details>
+    <summary><b> A tutorial for philosophers to gain programming skills applicable to their field </b></summary>
+
 <br>
-    
 This is a textbook meant to introduce philosophers, linguists, and foundationally inclined mathematicians to functional and logic programming with applications to 
 their fields. First Prolog is introduced, culminating with a nonmonotonic theorem prover used to represent formalized epistemic reasoning. Next, Scheme is introduced, 
 with 
@@ -43,11 +46,13 @@ applications aimed
 towards understanding referential transparency, quotation and quasiquotation, self reference, the halting problem, and fixed points. Finally, Haskell is introduced and 
 used as a 
 metalanguage to embed fragments of English in order to execute a computational formal semantic system. Each project has a full implementation on github.
+        
 </details>
-<br>
+
   
 ### [A Logician's Toolkit]()
-<details><summary> <b> A reference for anyone who needs to apply the tools of formal logic </b></summary>
+<details>
+    <summary><b> A reference for anyone who needs to apply the tools of formal logic </b></summary>
     
 <br>
 
@@ -75,7 +80,8 @@ The scope of the book is much greater than Partee Et al., and thus welcomes a wi
 ### [Unsaturated]()
 
 <details>
-  <summary> <b> A computational system for formal semantics via functional programming </b> </summary>
+  <summary><b> A computational system for formal semantics via functional programming </b></summary>
+    
 <br>
   
 Two developments of formal semantics for natural languages done with Haskell as the metalanguage. One takes the indirect representation route, associating
@@ -93,7 +99,8 @@ contains libraries which explore the use of monads and continuations in semantic
 ### [Spinner]()
 
 <details>
-  <summary> <b> A Scheme Compiler </b> </summary>
+  <summary><b> A Scheme Compiler </b></summary>
+    
 <br>
   
 An R7RS Scheme compiler and REPL interpreter.
@@ -105,6 +112,7 @@ An R7RS Scheme compiler and REPL interpreter.
 
 <details>
   <summary> <b> A C compiler </b> </summary>
+    
 <br>
 
 A C compiler with a debugging/interpretation system.
@@ -116,6 +124,7 @@ A C compiler with a debugging/interpretation system.
 
 <details>
   <summary> <b> An Unlambda compiler </b> </summary>
+    
 <br>
 
 A compiler for the Unlambda programming language, mostly a proof of concept that it *is* a coherent idea to compile the language 
@@ -129,6 +138,7 @@ are explicated via a presentation of formal operation and denotational semantics
 
 <details>
   <summary> <b> A string rewriting logic programming language </b> </summary>
+    
 <br>
   
 ASMPL (A String Manipulation Programming Language) is a logic programming language implementation of 
@@ -147,6 +157,7 @@ logic programming language.
 
 <details>
   <summary> <b> An implementation of monadic do notation</b> </summary>
+    
 <br>
 
 A Scheme monad library, which uses call/cc to implement a do notation in order to let you 'roll your own monads', conceptually based off of work by 
@@ -159,6 +170,7 @@ A Scheme monad library, which uses call/cc to implement a do notation in order t
 
 <details>
   <summary> <b> A monadic parser combinators library </b> </summary>
+    
 <br>
 
 A monadic parser combinator library influenced by the Haskell library [parsec](https://hackage.haskell.org/package/parsec), allowing for parser generation in Scheme 
@@ -171,6 +183,7 @@ using the powerful abstractions of monads and combinators.
 
 <details>
   <summary> <b> A monad transformers library </b> </summary>
+    
 <br>
 
 A library for composing monadic code using the [monad transformer abstraction model](https://en.wikipedia.org/wiki/Monad_transformer). 
@@ -182,6 +195,7 @@ A library for composing monadic code using the [monad transformer abstraction mo
 
 <details>
   <summary> <b> An optics library</b> </summary>
+    
 <br>
 
 An optics library for Scheme, similar to Haskell's [lens](https://hackage.haskell.org/package/lens) and [optics](https://hackage.haskell.org/package/optics) libraries. 
@@ -195,7 +209,8 @@ An optics library for Scheme, similar to Haskell's [lens](https://hackage.haskel
 #### [Modal Tableux Solver]()
 
 <details>
-  <summary> <b> A modal tableaux solver </b> </summary>
+  <summary><b> A modal tableaux solver </b></summary>
+    
 <br>
 
 A propositional modal logic tableaux proof system.
@@ -225,7 +240,8 @@ A collection of notes and worked solutions to various textbooks on my favorite p
 #### [SICP in Context]()
     
 <details>
-  <summary> <b> Explanations and contextualizations of the key ideas in SICP</b> </summary>
+  <summary><b> Explanations and contextualizations of the key ideas in SICP </b></summary>
+    
 <br>
 
 *Structure and Interpretation of Computer Programms* by Abelson, Sussman & Sussman is one of the greatest books ever written, and this fact is well known. My biggest
