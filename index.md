@@ -1,8 +1,8 @@
 Hello! My name is Peter, welcome to my website.
 
-On this page you can find my programming work, focusing mainly on functional programming, interpreters, and compilers.
-
-You can find out more about me [here](https://kripkesbeard.github.io/about), and contact me at kripkesbeard@gmail.com
+On this page you can find my programming work, focusing mainly on functional programming, interpreters, and compilers. 
+You can click the summary below each project title to find out more about each one. You can also find out more about 
+me [here](https://kripkesbeard.github.io/about), and contact me at kripkesbeard@gmail.com
 
 ## Books <a name="Books"></a>
 
@@ -251,19 +251,3 @@ the same as the abstract data types I'm learning about everywhere else?" Of cour
 types of confusions.
 
 </details>
-
-<br>
-<br>
-    
-
-## Some (Not Very) FAQs
-
-### The Name
-
-[Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) is a legendary philosopher and logician. His work, across all these fields, is hard to miss and is some of the main 
-inspiration behind my interest in these subjects. So, why his beard? There is a very old philosophical problem which was given the nick name 
-["Plato's Beard"](https://en.wikipedia.org/wiki/Plato%27s_beard) by Quine. I believe one of the problems Kripke raised in the philosophy of language (for those who know, the 
-argument from "A Puzzle About Belief" that propositional attitudes are just as much an issue for the descriptivist's theory) is equally as vexing as Plato's.
-
-
-    
