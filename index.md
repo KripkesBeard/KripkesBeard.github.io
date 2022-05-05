@@ -141,6 +141,20 @@ logic programming language.
 
 </details>
 <br>
+
+### [Harmonia]()
+
+<details>
+    <summary> <b>A harmony and chord analysis tool </b> </summary>
+    
+<br>
+
+A tool which functions as an expert system for questions about music including chords, harmony, and scale analysis.
+    
+</details>
+<br>
+
+
 <br>
 
 
@@ -195,7 +209,22 @@ An optics library for Scheme, similar to Haskell's [lens](https://hackage.haskel
 
 </details>
 <br>
+
+### [Morpheme]()
+
+<details>
+    <summary> <b>A Recursion Schemes library </b> </summary>
+    
 <br>
+
+A library containing common forms of recursion abstracted out into higher order functions, heavily based on ideas from category theory.
+    
+</details>
+<br>
+
+
+<br>
+
 
 
 ## Prolog <a name="Prolog"></a>
