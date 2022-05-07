@@ -19,6 +19,7 @@
 | International conference on functional programming | [Contests index](https://www.icfpconference.org/contest.html) |
 | Xavier Leroy's Curry-Howard Today | [List of slides](https://xavierleroy.org/CdF/2018-2019/) |
 | Bruno Gavranović's list of optics papers | [Git repo](https://github.com/bgavran/Lens_Resources) |
+| Lulu Cathrinus Grimalkin's list of Scheme links  | [Bibliography](https://web.archive.org/web/20220507231815/https://erkin.party/scheme/bibliography/) |
 
 
 ## Video Recordings
