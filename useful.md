@@ -20,6 +20,7 @@
 | Xavier Leroy's Curry-Howard Today | [List of slides](https://xavierleroy.org/CdF/2018-2019/) |
 | Bruno Gavranović's list of optics papers | [Git repo](https://github.com/bgavran/Lens_Resources) |
 | Lulu Cathrinus Grimalkin's list of Scheme links  | [Bibliography](https://web.archive.org/web/20220507231815/https://erkin.party/scheme/bibliography/) |
+| Brent Yorgey's post on type level as logic programming | [First post](https://byorgey.wordpress.com/2010/06/29/typed-type-level-programming-in-haskell-part-i-functional-dependencies/) |
 
 
 ## Video Recordings
