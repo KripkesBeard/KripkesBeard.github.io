@@ -23,6 +23,7 @@
 | Brent Yorgey's post on type level as logic programming | [First post](https://byorgey.wordpress.com/2010/06/29/typed-type-level-programming-in-haskell-part-i-functional-dependencies/) |
 | Conal Elliot's C is Purely Functional | [Blog post](http://conal.net/blog/posts/the-c-language-is-purely-functional) |
 | Brosenan's C++ Templates are a functional language | [Blog post](https://cloudalion.org/2016/09/08/c-is-a-dynamic-pure-functional-programming-language/) |
+| Debate about C being Turing Complete | [1](https://cs.stackexchange.com/questions/60965/is-c-actually-turing-complete) [2](https://memo.barrucadu.co.uk/c-is-not-turing-complete.html) [3](https://stackoverflow.com/questions/3136686/is-the-c99-preprocessor-turing-complete/3136798#3136798) |
 
 
 ## Video Recordings
