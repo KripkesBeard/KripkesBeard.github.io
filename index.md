@@ -69,7 +69,7 @@ The scope of the book is much greater than Partee Et al., and thus welcomes a wi
 
 ## Haskell <a name="Haskell"></a>
 
-### [Unsaturated]()
+### [Saturated]()
 
 <details>
   <summary><b> A computational system for formal semantics via functional programming </b></summary>
@@ -173,6 +173,18 @@ A Scheme monad library, which uses call/cc to implement a do notation in order t
 </details>
 <br>
 
+### [Mutatus]() 
+
+<details>
+  <summary> <b> A monad transformers library </b> </summary>
+    
+<br>
+
+A library for composing monadic code using the [monad transformer abstraction model](https://en.wikipedia.org/wiki/Monad_transformer). 
+
+</details>
+<br>
+
 ### [Pars]()
 
 <details>
@@ -182,18 +194,6 @@ A Scheme monad library, which uses call/cc to implement a do notation in order t
 
 A monadic parser combinator library influenced by the Haskell library [parsec](https://hackage.haskell.org/package/parsec), allowing for parser generation in Scheme 
 using the powerful abstractions of monads and combinators.
-
-</details>
-<br>
-
-### [Mutatus]() 
-
-<details>
-  <summary> <b> A monad transformers library </b> </summary>
-    
-<br>
-
-A library for composing monadic code using the [monad transformer abstraction model](https://en.wikipedia.org/wiki/Monad_transformer). 
 
 </details>
 <br>
