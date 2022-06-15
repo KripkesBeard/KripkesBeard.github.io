@@ -23,7 +23,7 @@ me [here](https://kripkesbeard.github.io/about), and contact me at kripkesbeard@
 <br>
 
 
-### [Programming for Philosophers]()
+### [Programming for Philosophers](https://github.com/KripkesBeard/programming-for-philosophers)
 
 <details>
     <summary><b> A tutorial for philosophers to gain programming skills applicable to their field </b></summary>
