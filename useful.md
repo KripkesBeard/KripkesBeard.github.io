@@ -25,7 +25,8 @@
 | Brosenan's C++ Templates are a functional language | [Blog post](https://cloudalion.org/2016/09/08/c-is-a-dynamic-pure-functional-programming-language/) |
 | Debate about C being Turing Complete | [1](https://cs.stackexchange.com/questions/60965/is-c-actually-turing-complete) [2](https://memo.barrucadu.co.uk/c-is-not-turing-complete.html) [3](https://stackoverflow.com/questions/3136686/is-the-c99-preprocessor-turing-complete/3136798#3136798) |
 | Scheme Implementations Cross References | [Index](https://practical-scheme.net/wiliki/schemexref.cgi) |
-| Recursion Scheme Resources | [Readme](https://github.com/passy/awesome-recursion-schemes) | 
+| Recursion Scheme Resources | [Readme](https://github.com/passy/awesome-recursion-schemes) |
+| Eisenberg & Weirich λ implementations | [Simple](https://github.com/goldfirere/glambda), [Polymorphic](https://github.com/sweirich/challenge/tree/canon/debruijn), [Dependent](https://github.com/sweirich/pi-forall) |
 
 
 ## Video Recordings
