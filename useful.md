@@ -15,11 +15,12 @@
 | Jim Larons's talk | [How Scheme is a lambda calculus](https://www.cs.unc.edu/~stotts/723/Lambda/scheme.html) |
 | Kyle Kingsbury's funny programming interview series | [Type Level Haskell](https://aphyr.com/posts/342-typing-the-technical-interview) |
 | Mitchel Vitez's blog | [Haskell's type system as a language](https://vitez.me/hts-language) |
+| Brent Yorgey's post on type level as logic programming | [First post](https://byorgey.wordpress.com/2010/06/29/typed-type-level-programming-in-haskell-part-i-functional-dependencies/) |
+| Type Families vs Fundeps | [GHC Wiki](https://gitlab.haskell.org/ghc/ghc/-/wikis/tf-vs-fd) |
 | Peter Salvi's Programming Books that Make You Smarter | [List](http://salvi.chaosnet.org/texts/programming.html) |
 | International conference on functional programming | [Contests index](https://www.icfpconference.org/contest.html) |
 | Xavier Leroy's Curry-Howard Today | [List of slides](https://xavierleroy.org/CdF/2018-2019/) |
 | Lulu Cathrinus Grimalkin's list of Scheme links  | [Bibliography](https://web.archive.org/web/20220507231815/https://erkin.party/scheme/bibliography/) |
-| Brent Yorgey's post on type level as logic programming | [First post](https://byorgey.wordpress.com/2010/06/29/typed-type-level-programming-in-haskell-part-i-functional-dependencies/) |
 | Conal Elliot's C is Purely Functional | [Blog post](http://conal.net/blog/posts/the-c-language-is-purely-functional) |
 | Brosenan's C++ Templates are a functional language | [Blog post](https://cloudalion.org/2016/09/08/c-is-a-dynamic-pure-functional-programming-language/) |
 | Debate about C being Turing Complete | [1](https://cs.stackexchange.com/questions/60965/is-c-actually-turing-complete), [2](https://memo.barrucadu.co.uk/c-is-not-turing-complete.html), [3](https://stackoverflow.com/questions/3136686/is-the-c99-preprocessor-turing-complete/3136798#3136798) |
