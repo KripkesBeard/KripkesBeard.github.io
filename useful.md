@@ -24,7 +24,7 @@
 | Brosenan's C++ Templates are a functional language | [Blog post](https://cloudalion.org/2016/09/08/c-is-a-dynamic-pure-functional-programming-language/) |
 | Debate about C being Turing Complete | [1](https://cs.stackexchange.com/questions/60965/is-c-actually-turing-complete), [2](https://memo.barrucadu.co.uk/c-is-not-turing-complete.html), [3](https://stackoverflow.com/questions/3136686/is-the-c99-preprocessor-turing-complete/3136798#3136798) |
 | Scheme Implementations Cross References | [Index](https://practical-scheme.net/wiliki/schemexref.cgi) |
-| Eisenberg & Weirich λ implementations | [Simple](https://gitlab.com/goldfirere/stitch), [Polymorphic](https://github.com/sweirich/challenge/tree/canon/debruijn), [Dependent](https://github.com/sweirich/pi-forall) |
+| λ Implementations in Haskell | [From untyped to poly](https://www.parsonsmatt.org/2021/11/30/rank_n_types_via_lambda_calculus.html),  [Simple](https://gitlab.com/goldfirere/stitch), [Polymorphic](https://github.com/sweirich/challenge/tree/canon/debruijn), [Dependent](https://github.com/sweirich/pi-forall) |
 | Bruno Gavranović's list of optics papers | [Git repo](https://github.com/bgavran/Lens_Resources) |
 | Recursion Scheme Resources | [Readme](https://github.com/passy/awesome-recursion-schemes) |
 | Type Level Programming Resources | [List](https://github.com/dewey92/typed-fp-good-reads) |
