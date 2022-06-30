@@ -87,3 +87,14 @@ myList = fs >>= (\f -> fmap (length . traverse f) ["a", "aa", "aaa", "aaaa"])
 I won't lie to you, I still have no intuition for how it works, but it was fun to write and I felt like I knew what
 I was doing the whole time because everything kept working the way I felt like it would. Weird experience. The last 
 thing I want to do is figure out how to make the lambdas in the genPowers go away for an actual pointfree style.
+
+## "Roadmap" for Type-level Haskell
+
+1. Terms types and kinds
+2. Type classes and constraints
+3. Multiparameter type classes and functional dependencies
+4. GADTs and Existential types
+5. RankNTypes
+6. Impredicative Types
+7. Type Families
+8. Singletons and Dependent Types
