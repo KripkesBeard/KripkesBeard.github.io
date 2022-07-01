@@ -120,3 +120,6 @@ notPointFree xs = zipWith (<) xs (tail xs)
 
 pointFree = zipWith (<) <*> tail
 ```
+
+The pattern to take away is that if you want to apply a function ```a``` to both an input ```c``` and the result of
+a function ```b``` on that input ```c```, then use S: ```S a b c = a c (b c)```
