@@ -3,7 +3,14 @@
 This is just a collection of random things, such as code snippets or what have you.
 
 
-## First n powers of the first n naturals, painfully
+- [Random things](#random-things)
+  - [First n Powers of the First n Naturals, Painfully](#first-n-powers-of-the-first-n-naturals-painfully)
+  - ["Roadmap" for Type-level Haskell](#roadmap-for-type-level-haskell)
+  - [S Pattern](#s-pattern)
+  - [The Syntax-Semantics Interface is a Homomorphism](#the-syntax-semantics-interface-is-a-homomorphism)
+
+
+## First n Powers of the First n Naturals, Painfully
 I was trying to get an intuition for what the traverse function looks like when f and t are both List,
 and after messing around with it I realize that the cardinality of the lists it was returning followed a pattern
 relating to powers, so I thought "I bet I could get this to generate every power of each number up to n" and so
@@ -88,6 +95,7 @@ I won't lie to you, I still have no intuition for how it works, but it was fun t
 I was doing the whole time because everything kept working the way I felt like it would. Weird experience. The last 
 thing I want to do is figure out how to make the lambdas in the genPowers go away for an actual pointfree style.
 
+
 ## "Roadmap" for Type-level Haskell
 
 1. Terms types and kinds
@@ -99,6 +107,7 @@ thing I want to do is figure out how to make the lambdas in the genPowers go awa
 7. Type Families
 8. Singletons and Dependent Types
 9. Linear Types
+
 
 ## S Pattern
 
@@ -123,3 +132,83 @@ pointFree = zipWith (<) <*> tail
 
 The pattern to take away is that if you want to apply a function ```a``` to both an input ```c``` and the result of
 a function ```b``` on that input ```c```, then use S: ```S a b c = a c (b c)```
+
+
+## The Syntax-Semantics Interface is a Homomorphism
+
+The syntax-semantics inferface is what linguists and semanticists call
+the relationship between syntax, or surface level structure of language,
+and semantics, or meaning. The central idea behind theories of semantics
+is that a correct semantic theory should be "compositonal". Compositionality
+means that the truth of a sentence is exactly decided by the truth of its parts
+and how they are logically combined. Compositionality is, in effect, the same
+idea as a homomorphism, a "structure preserving map", from algebra.
+
+```f(x + y) = f(x) + f(y)``` is compositional in the exact same way as 
+```A ^ B is true iff A is true and B is true.```
+
+An extended quote from Chiswell & Hodges' 
+[Mathematical Logic](https://global.oup.com/academic/product/mathematical-logic-9780198571001?cc=us&lang=en&) 
+(an incredible textbook, by the way) on the topic of denotational semantics:
+
+> During the Period 1850-1930 the idea gradually took root that at least for 
+> some artificial languages, we can describe the syntax independently of 
+> meanings, and then we can describe how meanings of complex phrases are built 
+> up from the meanings of words, using the syntax as a template. In 1933 Tarski 
+> showed exactly how to build up a semantics in this way for most formal 
+> languages of logic. In 1983 Helena Rasiowa and Roman Sikorski popularized an 
+> algebraic version of Tarski's theory: formal langauges are algebras with rules 
+> of syntaxctic composition as their operations, and we interpret a language by 
+> describing a homomorphism from the algebra to a suitable structure (e.g. a 
+> boolean algebra).
+> 
+> Around 1970 these ideas spread into two new areas. First, Dana Scott and 
+> Christopher Stachey showed how to extend Tarski's framework to computer 
+> languages. Second, Richard Montague and Barbara Partee launched a programme 
+> to carry the same ideas over into natural languages. Scott and Strachey 
+> advertised their scheme as 'denotational semantics', while Partee used the 
+> catchword "compositionality', but the ideas involved had a good deal in 
+> common. 
+>
+> Like many people today, in this book we have taken the view that sentences 
+> have an inner framework; we represent it by their parsing trees. We 
+> *interpret* sentences by climbing up their parsing trees.
+
+Another good quote expressing the same (quoted in the 
+[SEP article](https://plato.stanford.edu/entries/montague-semantics/#Com) 
+on Montague Semantics): 
+
+> Syntax is an algebra, semantics is an algebra, and meaning is a homomorphism 
+> between them.
+
+and a technical exposition of the idea can be found at the SEP article
+on Compositionality itself 
+[here](https://plato.stanford.edu/entries/compositionality/#FormStat).
+
+Another nice quote, from Gunn and Hardegree's
+[Algebraic Methods in Philosophical Logic](https://global.oup.com/academic/product/algebraic-methods-in-philosophical-logic-9780198531920?cc=us&lang=en&):
+
+> The notion of a homomorphism is the algebraic analog of an interpretation.
+
+Finally, see also section 2.3.1 in Dowty's essay "Compositionality as an
+Empirical Problem" in Barker and Jacobson's
+[Direct Compositionality](https://global.oup.com/academic/product/direct-compositionality-9780199204380?cc=us&lang=en&)
+
+It is a very old idea in computer science that, because programs
+are strings generated by a context free grammar, and therefore are 
+trees, we can interpret them by folding over their parse tree. This
+is exactly what Chiswell & Hodges mention above in the context of 
+finding the truth of a sentence in logic. Graham Hutton has an 
+excellent article outlining how folds are used to calculate the 
+denotational semantics of a programming language (which is really
+what is going on with embedded domain specific languages, or any
+other time when you're solving a problem by defining an interpreter,
+and that interpreter recursively walks over the input tree), called
+[Programming Language Semantics, It's Easy As 1,2,3](http://www.cs.nott.ac.uk/~pszgmh/123.pdf).
+
+Since folds are just less powerful catamorphisms, and in general recursion schemes
+are homomorphisms involving f-algebras, we should be able to use the tools from
+recursion schemes to study and analyze the syntax-semantics interface. For example,
+if an unfold/anamorphism generates a syntactic structure, and a fold/catamorphism
+reduces the syntactic structure to a meaning, then their composition/hylomorphism
+should be a function from the grammar of the language to the meanings of its sentences.
