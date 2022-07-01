@@ -100,3 +100,23 @@ thing I want to do is figure out how to make the lambdas in the genPowers go awa
 8. Singletons and Dependent Types
 9. Linear Types
 
+## S Pattern
+
+The function type ```((->) r)``` and its various typeclass instances, such as functor, applicative, monad, etc., can
+be very confusing when first encountered. It turns out, though, that they're incredibly useful. In particular, the
+applicative instances makes ```pure``` and ```<*>``` into the K and S combinators, repsectively. They're even defined
+this way in base (```pure``` is defined as ```const```). 
+
+There is a common pattern that appears when you want to compare or otherwise process sequential pieces of data
+in a container, such as a list. A good example is day 1 of the 2021 advent of code, where you want to compare
+sequential integers in a list of input. An idiomatic Haskell way of doing it would be to use ```zipWith```,
+the comparison function, and then the original list and the ```tail``` of the list. But writing it naively uses
+the list twice, and therefore isn't point free.
+
+We can make it point free by using S, that is, the ```((->) r)``` instance of ```<*>```:
+
+```Haskell
+notPointFree xs = zipWith (<) xs (tail xs)
+
+pointFree = zipWith (<) <*> tail
+```
