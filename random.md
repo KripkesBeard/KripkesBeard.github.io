@@ -8,6 +8,7 @@ This is just a collection of random things, such as code snippets or what have y
   - ["Roadmap" for Type-level Haskell](#roadmap-for-type-level-haskell)
   - [S Pattern](#s-pattern)
   - [The Syntax-Semantics Interface is a Homomorphism](#the-syntax-semantics-interface-is-a-homomorphism)
+  - [Computational Trinitarianism](#computational-trinitarianism)
 
 
 ## First n Powers of the First n Naturals, Painfully
@@ -212,3 +213,28 @@ recursion schemes to study and analyze the syntax-semantics interface. For examp
 if an unfold/anamorphism generates a syntactic structure, and a fold/catamorphism
 reduces the syntactic structure to a meaning, then their composition/hylomorphism
 should be a function from the grammar of the language to the meanings of its sentences.
+
+## Computational Trinitarianism
+
+It's well known in the category/homotopy type theory world that there are deep
+connections between various formal theories. The most famous is the three
+way connection between logic, type theory, and category theory, which has
+been called 
+["computational Trinitarianism"](https://ncatlab.org/nlab/show/computational+trilogy).
+
+Below is a (very WIP) table of connections between various theories that are
+of interest to me
+
+| Set Theory | Logic | Type Theory | Category Theory | Topology |
+| ---------- | ----- | ----------- | --------------- | -------- |
+| Set | Proposition | Type | Object | Manifold |
+| Function | Implication | Function type | Morphism | ? |
+| Element of a set | Proof | Term of a type | Generalized element | ? |
+| Singleton set | True | Unit type | Terminal object | ? |
+| Empty set | False | Void type | Initial object | ? |
+| Cartesian product | Conjunction | Product type | Product | ? Product space |
+| Disjoint union | Disjunction | Sum type | Coproduct | ? Coproduct space |
+| ? | Universal quantifier | Pi type | ? Dependent product | ? |
+| ? | Existential quantifier | Sigma type | ? Dependent sum | ? |
+| ? Heyting to Bool? | Double negation embedding | CPS transform | Yoneda embedding | ? |
+
