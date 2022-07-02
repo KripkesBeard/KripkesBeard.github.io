@@ -225,11 +225,11 @@ been called
 Below is a (very WIP) table of connections between various theories that are
 of interest to me
 
-| Set Theory | Logic | Type Theory | Category Theory | Topology |
+| Set Theory | Logic | Type Theory | Category Theory | Homotopy Theory |
 | ---------- | ----- | ----------- | --------------- | -------- |
-| Set | Proposition | Type | Object | Manifold |
+| Set | Proposition | Type | Object | Space |
 | Function | Implication | Function type | Morphism | ? |
-| Element of a set | Proof | Term of a type | Generalized element | ? |
+| Element of a set | Proof | Term of a type | Generalized element | Point |
 | Singleton set | True | Unit type | Terminal object | ? |
 | Empty set | False | Void type | Initial object | ? |
 | Cartesian product | Conjunction | Product type | Product | ? Product space |
