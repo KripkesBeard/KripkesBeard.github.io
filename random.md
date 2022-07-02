@@ -236,5 +236,9 @@ of interest to me
 | Disjoint union | Disjunction | Sum type | Coproduct | ? Coproduct space |
 | ? | Universal quantifier | Pi type | ? Dependent product | ? |
 | ? | Existential quantifier | Sigma type | ? Dependent sum | ? |
-| ? Heyting to Bool? | Double negation embedding | CPS transform | Yoneda embedding | ? |
-
+| ? | Modality | ? Effects | ? Monads | ? |
+| ? | ? | Godel's Dialectica intepretation | ? | ? |
+| [Forcing](https://xavierleroy.org/CdF/2018-2019/7.pdf) | Double negation embedding | CPS transform | Yoneda embedding | ? |
+| ? | ? | Closure conversion | CoYoneda | ? |
+| ? | ? | ? | Topoi | ? |
+| ? | ? | ? | Optics | ? |

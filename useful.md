@@ -20,6 +20,7 @@
 | Peter Salvi's Programming Books that Make You Smarter | [List](http://salvi.chaosnet.org/texts/programming.html) |
 | International conference on functional programming | [Contests index](https://www.icfpconference.org/contest.html) |
 | Xavier Leroy's Curry-Howard Today | [List of slides](https://xavierleroy.org/CdF/2018-2019/) |
+| Closure Conversion as CoYoneda | [blog](https://prl.ccs.neu.edu/blog/2017/08/28/closure-conversion-as-coyoneda/) |
 | Lulu Cathrinus Grimalkin's list of Scheme links  | [Bibliography](https://web.archive.org/web/20220507231815/https://erkin.party/scheme/bibliography/) |
 | Conal Elliot's C is Purely Functional | [Blog post](http://conal.net/blog/posts/the-c-language-is-purely-functional) |
 | Brosenan's C++ Templates are a functional language | [Blog post](https://cloudalion.org/2016/09/08/c-is-a-dynamic-pure-functional-programming-language/) |
