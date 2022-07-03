@@ -31,6 +31,7 @@
 | Recursion Scheme Resources | [Readme](https://github.com/passy/awesome-recursion-schemes) |
 | Type Level Programming Resources | [List](https://github.com/dewey92/typed-fp-good-reads) |
 | Very nice "objective" explanation of HoTT | [Reddit comment thread](https://www.reddit.com/r/math/comments/45qqnh/what_is_homotopy_type_theory_and_what/d002ei5/) |
+| PLS Lab | [Home](https://www.pls-lab.org/) |
 
 
 ## Video Recordings
