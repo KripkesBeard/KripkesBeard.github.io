@@ -214,6 +214,23 @@ if an unfold/anamorphism generates a syntactic structure, and a fold/catamorphis
 reduces the syntactic structure to a meaning, then their composition/hylomorphism
 should be a function from the grammar of the language to the meanings of its sentences.
 
+Random point to note: quote from Program Adverbs and Tlön Embeddings by 
+Tao Li and Stephanie Weirich:
+
+> Suppose that you want to formally verify a program written in your favorite language—be it Verilog,
+> Haskell, or C—your first step would be to translate that program and a description of its semantics
+> to a formal reasoning system, such as Coq [Coq development team 2022]. This step is known as
+> semantic embedding [Boulton et al. 1992]
+> There are multiple approaches to semantic embeddings. The two most well-known were proposed
+> by Boulton et al. [1992]: shallow embeddings, which represent terms of the embedded language
+> using equivalent terms of the embedding language, and deep embeddings, which represent terms
+> using abstract syntax trees (ASTs) and represent their semantics via some interpretation function. 
+
+Where the references are *Experience with Embedding Hardware Description Languages in HOL* & 
+the Coq documentation on the official stite. 
+
+P.S. note to self: read the article, it's a reference to a Borges story.
+
 ## Computational Trinitarianism
 
 It's well known in the category/homotopy type theory world that there are deep
