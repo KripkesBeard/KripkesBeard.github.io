@@ -228,14 +228,17 @@ of interest to me
 | Set Theory | Logic | Type Theory | Category Theory | Homotopy Theory |
 | ---------- | ----- | ----------- | --------------- | -------- |
 | Set | Proposition | Type | Object | Space |
-| Function | Implication | Function type | Morphism | ? |
 | Element of a set | Proof | Term of a type | Generalized element | Point |
-| Singleton set | True | Unit type | Terminal object | ? |
-| Empty set | False | Void type | Initial object | ? |
-| Cartesian product | Conjunction | Product type | Product | ? Product space |
-| Disjoint union | Disjunction | Sum type | Coproduct | ? Coproduct space |
-| ? | Universal quantifier | Pi type | ? Dependent product | ? |
-| ? | Existential quantifier | Sigma type | ? Dependent sum | ? |
+| Family of sets | Predicate | Dependent Type | ? | Fibration |
+| Family of elements | Conditional proof | ?b(x) : B(x) | ? | Section |
+| Empty set | False | Void type | Initial object | Empty space |
+| Singleton set | True | Unit type | Terminal object | * |
+| Disjoint union | Disjunction | Sum type | Coproduct | Coproduct space |
+| Cartesian product | Conjunction | Product type | Product | Product space |
+| Set of functions | Implication | Function type | Morphism | Function space |
+| Disjoint sum | Existential quantifier | Sigma type | ? | Total space |
+| Product | Universal quantifier | Pi type | ? | Space of sections |
+| {(x, x) \| x ∈ A} | Equality | Identity type | ? | path space A^I | 
 | ? | Modality | ? Effects | ? Monads | ? |
 | ? | ? | Godel's Dialectica intepretation | ? | ? |
 | [Forcing](https://xavierleroy.org/CdF/2018-2019/7.pdf) | Double negation embedding | CPS transform | Yoneda embedding | ? |
