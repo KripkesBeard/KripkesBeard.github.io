@@ -214,6 +214,23 @@ if an unfold/anamorphism generates a syntactic structure, and a fold/catamorphis
 reduces the syntactic structure to a meaning, then their composition/hylomorphism
 should be a function from the grammar of the language to the meanings of its sentences.
 
+Random point to note: quote from Program Adverbs and Tlön Embeddings by 
+Tao Li and Stephanie Weirich:
+
+> Suppose that you want to formally verify a program written in your favorite language—be it Verilog,
+> Haskell, or C—your first step would be to translate that program and a description of its semantics
+> to a formal reasoning system, such as Coq [Coq development team 2022]. This step is known as
+> semantic embedding [Boulton et al. 1992]
+> There are multiple approaches to semantic embeddings. The two most well-known were proposed
+> by Boulton et al. [1992]: shallow embeddings, which represent terms of the embedded language
+> using equivalent terms of the embedding language, and deep embeddings, which represent terms
+> using abstract syntax trees (ASTs) and represent their semantics via some interpretation function. 
+
+Where the references are *Experience with Embedding Hardware Description Languages in HOL* & 
+the Coq documentation on the official stite. 
+
+P.S. note to self: read the article, it's a reference to a Borges story.
+
 ## Computational Trinitarianism
 
 It's well known in the category/homotopy type theory world that there are deep
@@ -245,3 +262,40 @@ of interest to me
 | ? | ? | Closure conversion | CoYoneda | ? |
 | ? | ? | ? | Topoi | ? |
 | ? | ? | ? | Optics | ? |
+
+## SEP articles on Philosophy of Language
+
+The SEP doesn't have an article entirely devoted to the Philosophy of Language as a whole 
+(although the IEP [does](https://iep.utm.edu/lang-phi/)), 
+but it does have a lot of articles on various topics that cover most of the subject:
+
+
+[Truth](https://plato.stanford.edu/entries/truth/)
+
+[Theories of Meaning](https://plato.stanford.edu/entries/meaning/)
+
+[Descriptions](https://plato.stanford.edu/entries/descriptions/)
+
+[Names](https://plato.stanford.edu/entries/names/)
+
+[Reference](https://plato.stanford.edu/entries/reference/)
+
+[Quantifiers and Quantification](https://plato.stanford.edu/entries/quantification/)
+
+[Word Meaning](https://plato.stanford.edu/entries/word-meaning/)
+
+[Singular Propositions](https://plato.stanford.edu/entries/propositions-singular/)
+
+[Propositions](https://plato.stanford.edu/entries/propositions/)
+
+[Possible Worlds](https://plato.stanford.edu/entries/possible-worlds/)
+
+[Structured Propositions](https://plato.stanford.edu/entries/propositions-structured/)
+
+[Hyperintensionality](https://plato.stanford.edu/entries/hyperintensionality/)
+
+[Propositional Attitude Reports](https://plato.stanford.edu/entries/prop-attitude-reports/)
+
+[Intensional Transitive Verbs](https://plato.stanford.edu/entries/intensional-trans-verbs/)
+
+[Intensional Logic](https://plato.stanford.edu/entries/logic-intensional/)
