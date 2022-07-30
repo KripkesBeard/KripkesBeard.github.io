@@ -259,3 +259,40 @@ of interest to me
 | ? | ? | Closure conversion | CoYoneda | ? |
 | ? | ? | ? | Topoi | ? |
 | ? | ? | ? | Optics | ? |
+
+## SEP articles on Philosophy of Language
+
+The SEP doesn't have an article entirely devoted to the Philosophy of Language as a whole 
+(although the IEP [does](https://iep.utm.edu/lang-phi/)), 
+but it does have a lot of articles on various topics that cover most of the subject:
+
+
+[Truth](https://plato.stanford.edu/entries/truth/)
+
+[Theories of Meaning](https://plato.stanford.edu/entries/meaning/)
+
+[Descriptions](https://plato.stanford.edu/entries/descriptions/)
+
+[Names](https://plato.stanford.edu/entries/names/)
+
+[Reference](https://plato.stanford.edu/entries/reference/)
+
+[Quantifiers and Quantification](https://plato.stanford.edu/entries/quantification/)
+
+[Word Meaning](https://plato.stanford.edu/entries/word-meaning/)
+
+[Singular Propositions](https://plato.stanford.edu/entries/propositions-singular/)
+
+[Propositions](https://plato.stanford.edu/entries/propositions/)
+
+[Possible Worlds](https://plato.stanford.edu/entries/possible-worlds/)
+
+[Structured Propositions](https://plato.stanford.edu/entries/propositions-structured/)
+
+[Hyperintensionality](https://plato.stanford.edu/entries/hyperintensionality/)
+
+[Propositional Attitude Reports](https://plato.stanford.edu/entries/prop-attitude-reports/)
+
+[Intensional Transitive Verbs](https://plato.stanford.edu/entries/intensional-trans-verbs/)
+
+[Intensional Logic](https://plato.stanford.edu/entries/logic-intensional/)
