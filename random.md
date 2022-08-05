@@ -280,7 +280,13 @@ but it does have a lot of articles on various topics that cover most of the subj
 
 [Reference](https://plato.stanford.edu/entries/reference/)
 
+[Speech Acts](https://plato.stanford.edu/entries/speech-acts/)
+
+[Assertion](https://plato.stanford.edu/entries/assertion/)
+
 [Quantifiers and Quantification](https://plato.stanford.edu/entries/quantification/)
+
+[Quotation](https://plato.stanford.edu/entries/quotation/)
 
 [Word Meaning](https://plato.stanford.edu/entries/word-meaning/)
 
@@ -289,6 +295,10 @@ but it does have a lot of articles on various topics that cover most of the subj
 [Propositions](https://plato.stanford.edu/entries/propositions/)
 
 [Possible Worlds](https://plato.stanford.edu/entries/possible-worlds/)
+
+[Rigid Designator](https://plato.stanford.edu/entries/rigid-designators/)
+
+[Transworld Identity](https://plato.stanford.edu/entries/identity-transworld/)
 
 [Structured Propositions](https://plato.stanford.edu/entries/propositions-structured/)
 
@@ -299,3 +309,25 @@ but it does have a lot of articles on various topics that cover most of the subj
 [Intensional Transitive Verbs](https://plato.stanford.edu/entries/intensional-trans-verbs/)
 
 [Intensional Logic](https://plato.stanford.edu/entries/logic-intensional/)
+
+[Compositionality](https://plato.stanford.edu/entries/compositionality/)
+
+[Montague Semantics](https://plato.stanford.edu/entries/montague-semantics/)
+
+[Logical Form](https://plato.stanford.edu/entries/logical-form/)
+
+[Dynamic Semantics](https://plato.stanford.edu/entries/dynamic-semantics/)
+
+[Indicative Conditionals](https://plato.stanford.edu/entries/conditionals/)
+
+[The Logic of Conditionals](https://plato.stanford.edu/entries/logic-conditionals/)
+
+[Implicature](https://plato.stanford.edu/entries/implicature/)
+
+[Counterfactuals](https://plato.stanford.edu/entries/counterfactuals/)
+
+[Presupposition](https://plato.stanford.edu/entries/presupposition/)
+
+[Indexicals](https://plato.stanford.edu/entries/indexicals/)
+
+[Anaphora](https://plato.stanford.edu/entries/anaphora/)
