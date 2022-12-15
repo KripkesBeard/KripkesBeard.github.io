@@ -1,4 +1,5 @@
-# fragments-0.1.0.0: Formal Semantics via Functional Programming
+# Fragments
+## Formal Semantics via Functional Programming
 
 Fragments is a Haskell library which implements formal semantics for natural 
 language as a series of embedded domain specific languages. The library will have 
