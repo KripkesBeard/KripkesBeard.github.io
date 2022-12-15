@@ -26,24 +26,5 @@ and setting up tests for the core logical systems of the library.
 
 You can find the rendered documentation for the finished projects here:
 
-[Propositional Logic]() | 
-[Propositional Modal Logic]()
-
-- [x] Implement Propositional Logic
-- [x] Implement Propositional Modal Logic
-- [ ] Implement Quantificational Logic
-- [ ] Implement Quantificational Modal Logic
-- [ ] Implement Type Theoretic Logic
-- [ ] Implement Type Theoretic Modal Logic
-- [x] Document Propositional Logic
-- [x] Document Propositional Modal Logic
-- [ ] Document Quantificational Logic
-- [ ] Document Quantificational Modal Logic
-- [ ] Document Type Theoretic Logic
-- [ ] Document Type Theoretic Modal Logic
-- [ ] Test Propositional Modal Logic
-- [ ] Test Propositional Modal Logic
-- [ ] Test Quantificational  Logic
-- [ ] Test Quantificational Modal Logic
-- [ ] Test Type Theoretic Logic
-- [ ] Test Type Theoretic Modal Logic
+[Propositional Logic](https://kripkesbeard.github.io/fragments/Semantics-Logic-Propositional.html) | 
+[Propositional Modal Logic](https://kripkesbeard.github.io/fragments/Semantics-Logic-PropositionalModal.html)

@@ -4,7 +4,7 @@ On this page you can find my programming work, focusing mainly on functional pro
 You can click the summary below each project title to find out more about each one. You can also find out more about 
 me [here](https://kripkesbeard.github.io/about), and contact me at kripkesbeard@gmail.com
 
-## Haskell - Fragments
+## Fragments
 
 Fragments is a Haskell library for natural language semantics. You can find out
 more about it [here](https://kripkesbeard.github.io/fragmentssummary).
@@ -16,20 +16,20 @@ introduce philosophy students to programming and show them how they can use
 functional and logic programming languages as tools to help them study their field.
 You can find out more about it [here](https://github.com/KripkesBeard/programming-for-philosophers).
 
-## Haskell - Advent of Code
+## Advent of Code
 
 Every December I participate in Advent of Code for the first week or so. I 
 maintain a github repo of my solutions in Haskell 
 [here](https://github.com/KripkesBeard/AoC).
 
-## Agda - HoTTEST Summer School
+## HoTTEST Summer School
 
 I participated in the 2022 HoTTEST Summer School which was an introduction to
 homotopy type theory and formalization in Agda. I kept a github repo of my 
 solutions to programming assignments 
 [here](https://github.com/KripkesBeard/hottest-summer-school).
 
-## Java - School Projects
+## School Projects
 
 I completed two term projects for an Intro To Object-Oriented Programming class in 
 Java. One was a desert rat running simulator, found 
