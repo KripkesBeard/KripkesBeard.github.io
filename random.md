@@ -9,6 +9,7 @@ This is just a collection of random things, such as code snippets or what have y
   - [S Pattern](#s-pattern)
   - [The Syntax-Semantics Interface is a Homomorphism](#the-syntax-semantics-interface-is-a-homomorphism)
   - [Computational Trinitarianism](#computational-trinitarianism)
+  - [SEP articles on Philosophy of Language](#sep-articles-on-philosophy-of-language)
 
 
 ## First n Powers of the First n Naturals, Painfully
@@ -270,13 +271,32 @@ The SEP doesn't have an article entirely devoted to the Philosophy of Language a
 but it does have a lot of articles on various topics that cover most of the subject:
 
 
-| Semantic Theory | Reference | Possible Worlds & Intensions | Pragmatics |
-| --------------- | --------- | ---------------------------- | ---------- |
-| [Truth](https://plato.stanford.edu/entries/truth/) | [Descriptions](https://plato.stanford.edu/entries/descriptions/) | [Possible Worlds](https://plato.stanford.edu/entries/possible-worlds/) | [Speech Acts](https://plato.stanford.edu/entries/speech-acts/) |
-| [Theories of Meaning](https://plato.stanford.edu/entries/meaning/) | [Names](https://plato.stanford.edu/entries/names/) | [Rigid Designator](https://plato.stanford.edu/entries/rigid-designators/) | [Assertion](https://plato.stanford.edu/entries/assertion/) |  
-| [Compositionality](https://plato.stanford.edu/entries/compositionality/) | [Reference](https://plato.stanford.edu/entries/reference/) | [Transworld Identity](https://plato.stanford.edu/entries/identity-transworld/) | [Indicative Conditionals](https://plato.stanford.edu/entries/conditionals/) | 
-| [Propositions](https://plato.stanford.edu/entries/propositions/) | [Singular Propositions](https://plato.stanford.edu/entries/propositions-singular/) | [Structured Propositions](https://plato.stanford.edu/entries/propositions-structured/) | [The Logic of Conditionals](https://plato.stanford.edu/entries/logic-conditionals/) | 
-| [Logical Form](https://plato.stanford.edu/entries/logical-form/) | [Quotation](https://plato.stanford.edu/entries/quotation/) | [Hyperintensionality](https://plato.stanford.edu/entries/hyperintensionality/) | [Implicature](https://plato.stanford.edu/entries/implicature/) |
-| [Intensional Logic](https://plato.stanford.edu/entries/logic-intensional/) | [Quantifiers and Quantification](https://plato.stanford.edu/entries/quantification/) | [Propositional Attitude Reports](https://plato.stanford.edu/entries/prop-attitude-reports/) | [Presupposition](https://plato.stanford.edu/entries/presupposition/) |      
-| [Montague Semantics](https://plato.stanford.edu/entries/montague-semantics/) | [Generalized Quantifiers](https://plato.stanford.edu/entries/generalized-quantifiers/) | [Intensional Transitive Verbs](https://plato.stanford.edu/entries/intensional-trans-verbs/) | [Indexicals](https://plato.stanford.edu/entries/indexicals/) |  
-| [Dynamic Semantics](https://plato.stanford.edu/entries/dynamic-semantics/) | [Word Meaning](https://plato.stanford.edu/entries/word-meaning/) | [Counterfactuals](https://plato.stanford.edu/entries/counterfactuals/) | [Anaphora](https://plato.stanford.edu/entries/anaphora/) |  
+[Truth](https://plato.stanford.edu/entries/truth/)
+
+[Theories of Meaning](https://plato.stanford.edu/entries/meaning/)
+
+[Descriptions](https://plato.stanford.edu/entries/descriptions/)
+
+[Names](https://plato.stanford.edu/entries/names/)
+
+[Reference](https://plato.stanford.edu/entries/reference/)
+
+[Quantifiers and Quantification](https://plato.stanford.edu/entries/quantification/)
+
+[Word Meaning](https://plato.stanford.edu/entries/word-meaning/)
+
+[Singular Propositions](https://plato.stanford.edu/entries/propositions-singular/)
+
+[Propositions](https://plato.stanford.edu/entries/propositions/)
+
+[Possible Worlds](https://plato.stanford.edu/entries/possible-worlds/)
+
+[Structured Propositions](https://plato.stanford.edu/entries/propositions-structured/)
+
+[Hyperintensionality](https://plato.stanford.edu/entries/hyperintensionality/)
+
+[Propositional Attitude Reports](https://plato.stanford.edu/entries/prop-attitude-reports/)
+
+[Intensional Transitive Verbs](https://plato.stanford.edu/entries/intensional-trans-verbs/)
+
+[Intensional Logic](https://plato.stanford.edu/entries/logic-intensional/)
