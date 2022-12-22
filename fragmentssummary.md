@@ -28,4 +28,5 @@ and setting up tests for the core logical systems of the library.
 You can find the rendered documentation for the finished projects here:
 
 [Propositional Logic](https://kripkesbeard.github.io/fragments/Semantics-Logic-Propositional.html) | 
-[Propositional Modal Logic](https://kripkesbeard.github.io/fragments/Semantics-Logic-PropositionalModal.html)
+[Propositional Modal Logic](https://kripkesbeard.github.io/fragments/Semantics-Logic-PropositionalModal.html) |
+[Quantificational Logic](https://kripkesbeard.github.io/fragments/Semantics-Logic-Quantificational.html)
