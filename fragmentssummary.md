@@ -25,7 +25,7 @@ of the library's rendered documentation
 The project is currently in phase 1. Phase 1 involves implementing, documenting, 
 and setting up tests for the core logical systems of the library.
 
-You can find the rendered documentation for the finished projects here:
+You can find the rendered documentation for the finished logics here:
 
 [Propositional Logic](https://kripkesbeard.github.io/fragments/Semantics-Logic-Propositional.html) | 
 [Propositional Modal Logic](https://kripkesbeard.github.io/fragments/Semantics-Logic-PropositionalModal.html) |
