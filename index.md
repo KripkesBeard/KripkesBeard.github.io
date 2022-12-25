@@ -22,13 +22,6 @@ Every December I participate in Advent of Code for the first week or so. I
 maintain a github repo of my solutions in Haskell 
 [here](https://github.com/KripkesBeard/AoC).
 
-## HoTTEST Summer School
-
-I participated in the 2022 HoTTEST Summer School which was an introduction to
-homotopy type theory and formalization in Agda. I kept a github repo of my 
-solutions to programming assignments 
-[here](https://github.com/KripkesBeard/hottest-summer-school).
-
 ## School Projects
 
 I completed two term projects for an Intro To Object-Oriented Programming class in 
