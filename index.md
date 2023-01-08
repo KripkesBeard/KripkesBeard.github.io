@@ -39,16 +39,16 @@ Here are some essays I've written for various classes during my undergrad
 
 ### English 111 - College Composition I
 
-[Increases in Offshore Drilling Fail to Secure a Habitable Future](https://github.com/KripkesBeard/Drilling.pdf)
+[Increases in Offshore Drilling Fail to Secure a Habitable Future](https://kripkesbeard.github.io/Drilling.pdf)
 
 ### English 112 - College Composition II
 
-[Shock and Bourgeois: Milton Friedman’s Grand Design for New Orleans School Reform](https://github.com/KripkesBeard/Friedman.pdf)
+[Shock and Bourgeois: Milton Friedman’s Grand Design for New Orleans School Reform](https://kripkesbeard.github.io/Friedman.pdf)
 
-[It Is Morally Correct for Everyone Involved in Cryptocurrency to Kill Themselves](https://github.com/KripkesBeard/Crypto.pdf)
+[It Is Morally Correct for Everyone Involved in Cryptocurrency to Kill Themselves](https://kripkesbeard.github.io/Crypto.pdf)
 
 ### English 258 - African American Literature, Honors
 
-[Exceptionally Deficient: Why Quintessentially American Self-Reliance Is Never Enough](https://github.com/KripkesBeard/WashingtonDuBoisObama.pdf)
+[Exceptionally Deficient: Why Quintessentially American Self-Reliance Is Never Enough](https://kripkesbeard.github.io/WashingtonDuBoisObama.pdf)
 
-[The Echoing Voices of Langston Hughes and Zora Neale Hurston](https://github.com/KripkesBeard/Museum.pdf)
+[The Echoing Voices of Langston Hughes and Zora Neale Hurston](https://kripkesbeard.github.io/Museum.pdf)
