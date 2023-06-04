@@ -43,7 +43,7 @@ Here are some essays I've written for various classes during my undergrad
 
 ### English 112 - College Composition II
 
-[Shock and Bourgeois: Milton Friedman’s Grand Design for New Orleans School Reform](https://kripkesbeard.github.io/Friedman.pdf)
+[Shock and Bourgeois: Milton Friedman’s Grand Design for New Orleans School Reform](https://kripkesbeard.github.io/NewOrleans.pdf)
 
 [It Is Morally Correct for Everyone Involved in Cryptocurrency to Kill Themselves](https://kripkesbeard.github.io/Crypto.pdf)
 
